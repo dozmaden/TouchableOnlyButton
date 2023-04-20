@@ -12,6 +12,7 @@ Why does this different behaviour occur?
 
 ### Application
 https://user-images.githubusercontent.com/55023230/233374804-f07ad19f-6e23-4c95-873b-cf9e1c514828.mp4
+You can't activate this button by Tap -> Enter
 
 ### Button Test
 https://user-images.githubusercontent.com/55023230/233374830-314dcc93-c1d2-44db-a867-76aeb5cb485e.mp4

@@ -44,7 +44,7 @@ fun TouchableOnlyButton() {
     Button(
         onClick = {
             Log.d("TouchableOnlyButton", "onClick")
-            // Check if button was clicked by genuine touch interaction, rather than Tap -> Enter
+            // Check if button was clicked by genuine touch interaction, rather than Tab -> Enter
             if (pressedState) {
                 Log.d("TouchableOnlyButton", "pressedState")
                 showDialog.value = true

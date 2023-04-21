@@ -2,7 +2,7 @@
 
 https://issuetracker.google.com/issues/279001772
 
-I have a Compose button, which is supposed to be only clicked by a genuine touch interaction (a not by a connected hardware keyboard activation, such as Tap -> Enter). 
+I have a Compose button, which is supposed to be only clicked by a genuine touch interaction (a not by a connected hardware keyboard activation, such as Tab -> Enter). 
 Suppose that after a user taps this button an AlertDialog appears.
 
 I check whether it was a genuine touch press by collecting pressedState of InteractionSource and checking it in onClick(). 

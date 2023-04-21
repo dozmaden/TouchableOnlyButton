@@ -1,5 +1,7 @@
 # TouchableOnlyButton Issue
 
+https://issuetracker.google.com/issues/279001772
+
 I have a Compose button, which is supposed to be only clicked by a genuine touch interaction (a not by a connected hardware keyboard activation, such as Tap -> Enter). 
 Suppose that after a user taps this button an AlertDialog appears.
 
